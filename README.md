@@ -8,6 +8,11 @@
 
 This is the code—umm, tests are code, right?—for my little mini-series on test-driven, object-oriented JavaScript.
 
+- [Lesson 1 Summary](https://github.com/stevekinney/test-driven-object-oriented-javascript/blob/master/src/lesson-1-summary.md)
+- [Lesson 2 Summary](https://github.com/stevekinney/test-driven-object-oriented-javascript/blob/master/src/lesson-2-summary.md)
+- [Lesson 3 Summary](https://github.com/stevekinney/test-driven-object-oriented-javascript/blob/master/src/lesson-3-summary.md)
+- [Lesson 4 Summary](https://github.com/stevekinney/test-driven-object-oriented-javascript/blob/master/src/lesson-4-summary.md)
+
 [ts-badge]: https://img.shields.io/badge/TypeScript-3.8-blue.svg
 [nodejs-badge]: https://img.shields.io/badge/Node.js->=%2012.13-blue.svg
 [nodejs]: https://nodejs.org/dist/latest-v12.x/docs/api/
