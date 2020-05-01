@@ -4,9 +4,9 @@
 [![Build Status - Travis][travis-badge]][travis-ci]
 [![Build Status - GitHub Actions][gha-badge]][gha-ci]
 
-# TypeScript Boilerplate
+# Test-Driven, Object-Oriented JavaScript
 
-This is the simple boilerplate that I use for non-React projects.
+This is the code—umm, tests are code, right?—for my little mini-series on test-driven, object-oriented JavaScript.
 
 [ts-badge]: https://img.shields.io/badge/TypeScript-3.8-blue.svg
 [nodejs-badge]: https://img.shields.io/badge/Node.js->=%2012.13-blue.svg
